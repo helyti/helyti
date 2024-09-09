@@ -11,3 +11,6 @@ meu nome e helyti
 camargo.helyti@escola.pr.gov.br
 
 @helytidecamargo
+
+
+![image](https://github.com/user-attachments/assets/da6c027c-aa6d-46ee-b106-68f0d04e6cf6)
